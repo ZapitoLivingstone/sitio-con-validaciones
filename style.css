@@ -1,0 +1,18 @@
+body {
+    background-color: #fafad7;
+    color: #2b9eb3;
+}
+
+.color-primary {
+    color: #2b9eb3;
+}
+
+.color-secondary {
+    background-color: #85cc9c;
+    border-color: #85cc9c;
+}
+
+.color-secondary:hover {
+    background-color: #2b9eb3;
+    border-color: #2b9eb3;
+}
